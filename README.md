@@ -13,3 +13,7 @@ Language can be specified in `[option]` with "en", "zh" (中文), "zh-Hans" (简
 ```
 swift ocr.swift [option]
 ```
+
+#### Note
+
+In the repository I forked from, a specified language is appended **behind** "en-US", which leads to an unexpected result.
