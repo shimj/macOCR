@@ -6,7 +6,7 @@
 swiftc ocr.swift -o ocr
 ./ocr [option]
 ```
-Language can be specified in `[option]` with "en", "zh", "zh-Hans" or "zh-Hant"
+Language can be specified in `[option]` with "en", "zh" (中文), "zh-Hans" (简体中文) or "zh-Hant" (繁体中文).
 
 #### Run without compiling
 
